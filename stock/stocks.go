@@ -1,8 +1,8 @@
 package stock
 
 //GetAll return all stocks B3
-func GetAll() [328]string {
-	return [328]string{
+func GetAll() [341]string {
+	return [341]string{
 		"BRDT3",
 		"DMMO3",
 		"ENAT3",
@@ -331,5 +331,18 @@ func GetAll() [328]string {
 		"PNVL3",
 		"PNVL4",
 		"RADL3",
+		"PLPL3",
+		"PETZ3",
+		"PGMN3",
+		"LAVV3",
+		"LJQQ3",
+		"SOMA3",
+		"AMBP3",
+		"MDNE3",
+		"PRNR3",
+		"MTRE3",
+		"GMAT3",
+		"SEQL3",
+		"BOAS3",
 	}
 }
